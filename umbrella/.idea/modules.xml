@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1860942179/app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1860942179/app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/783566760/build-logic.kotlin-plugins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/783566760/build-logic.kotlin-plugins.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-269375736/business-layer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-269375736/business-layer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1112433010/data-layer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1112433010/data-layer.main.iml" />
+    </modules>
+  </component>
+</project>

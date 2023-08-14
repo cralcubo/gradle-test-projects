@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.6">
+      <module name="build-logic.java-plugins" target="11" />
+      <module name="build-logic.java-plugins.main" target="11" />
+      <module name="build-logic.java-plugins.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
